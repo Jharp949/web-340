@@ -51,7 +51,20 @@
   color: inherit;
   background-color: inherit;
 }
-
+/**
+Assigns properties to any element with the card-content class. Adjust the top and bottom padding to 2px and the
+right and left padding to 16px.
+*/
+.card-content {
+  padding: 2px 16px;
+}
+/**
+Assigns properties to any element with the card class while hovering over the element with the cursor.
+Shadows on the right and bottom with color black.
+*/
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
 .return-home {
   color: #4F3674;
   text-decoration: none;
