@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Jharp949/web-340/issues"
   },
-  "homepage": "https://github.com/Jharp949/web-340/tree/main#readme"
+  "homepage": "https://github.com/Jharp949/web-340/tree/main#readme",
+  "dependencies": {
+    "moment": "^2.28.0",
+    "pino": "^6.13.4"
+  }
 }
