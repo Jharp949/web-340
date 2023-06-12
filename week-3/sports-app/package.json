@@ -1,7 +1,7 @@
 {
   "name": "sports-app",
   "version": "1.0.0",
-  "description": "Assignment 2.2 - Dependencies",
+  "description": "Assignment 3.2 - Node's Module System",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
